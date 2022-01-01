@@ -1,6 +1,6 @@
 ### Hi there, I'm Suhel Firdus - aka suhelm 👋 
 
-
+Resume : https://my.indeed.com/p/suhelf-pitdcxv
 
 ## I'm a Developer and Software Integrator as well as Implementer !!
 
