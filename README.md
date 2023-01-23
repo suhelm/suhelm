@@ -8,9 +8,10 @@ Resume : https://github.com/suhelm/suhelm.github.io/blob/main/Suhel_Firdus__CV%2
 - 🌱 I’m currently learning everything 🤣. - Reading about Containers, Spring Boots and Angular!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Become a full fledge Java programmer
-- ⚡ fact: Completing my Masters in Soft Engineering in summer 2022
 - 🥅 Have more than a Decade of software industry experience
-- 🌱 I have a bachelor in Electrical and Electronics Engineering - but I had chosen Software Engineering as career !! 
+- 🌱 I have a bachelor in Electrical and Electronics Engineering from Anna University, India
+- 🌱 I have a Master of Engineering in Software Engineering from Concordia University, Canada
+
 
 ### Connect with me:
 
